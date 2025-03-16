@@ -1,6 +1,6 @@
 # Bright Data 的代理服务器
 
-[![Promo](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/proxy-types/proxy-servers)
+[![Promo](https://github.com/bright-cn/Rotating-Residential-Proxies/raw/main/50%25%20off%20promo%20(1).png)](https://www.bright.cn/proxy-types/proxy-servers)
 
 ## 概览
 体验 Bright Data [代理服务器](https://www.bright.cn/proxy-types/proxy-servers)带来的无缝采集，精准定位、稳定性和快速响应兼备。
